@@ -1,0 +1,14 @@
+---
+title: "lab_attendance"
+format: html
+name: Levi Denissen
+editor: visual
+
+## shows code
+execute: 
+  echo: true
+---
+## I have learned how to create websites using Quarto and Github.
+---
+
+## 
